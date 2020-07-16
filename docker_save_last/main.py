@@ -19,7 +19,7 @@ import uuid
 import time
 import signal
 
-from command import Command
+from .command import Command
 
 
 def getOpenPort():
